@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "458854627024",
+    "firebase_url": "https://noteapplication2-default-rtdb.firebaseio.com",
+    "project_id": "noteapplication2",
+    "storage_bucket": "noteapplication2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458854627024:android:c46cb4bacb7e4a144e10d5",
+        "android_client_info": {
+          "package_name": "com.MaksymObodets.NoteApplication2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458854627024-883opvf9nk1kqc02i49rpo5oeel3l3ta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.MaksymObodets.NoteApplication2",
+            "certificate_hash": "ee960d497f1bd6b32448e2f3da7811e6bd253969"
+          }
+        },
+        {
+          "client_id": "458854627024-tmuj3kdbm144lkcrqi2lqvklu6ebd2ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAd06w-F2auuE2IIRiNT18nds6gTmwJsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458854627024-tmuj3kdbm144lkcrqi2lqvklu6ebd2ua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
